@@ -1,4 +1,4 @@
-using Ilc.InformationHarvester;
+﻿using Ilc.InformationHarvester;
 using DemoHarvester;
 using Microsoft.Owin;
 using Owin;

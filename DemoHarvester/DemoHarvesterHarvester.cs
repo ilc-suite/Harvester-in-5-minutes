@@ -1,4 +1,4 @@
-using DemoHarvester.DataCube;
+﻿using DemoHarvester.DataCube;
 using Ilc.InformationHarvester;
 using Ilc.WcfService;
 
